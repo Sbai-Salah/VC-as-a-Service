@@ -10,7 +10,7 @@ export interface JutsuProps extends React.HTMLProps<React.ReactElement<any, any>
   // The participant's displayed name
   displayName?: string;
 
-  // The meeting room password
+  // The meeting room passwordddd
   password?: string;
 
   // Callback function executed after readyToClose event is fired
